@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1621
     wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15149#The-Palace-Beautiful--A-Story-for-Girls
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2005-02-22'
 gutenberg_type: Text
